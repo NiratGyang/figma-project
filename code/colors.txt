@@ -1,0 +1,3 @@
+background: #fff
+others: #361921
+writing: #000000
