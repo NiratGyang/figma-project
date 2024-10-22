@@ -68,6 +68,10 @@ li{
     margin-left: 20px;
 }
 
+.navbar a:hover{
+    color: purple;
+}
+
 .inner{
     display: flex;
     flex-direction: row;
@@ -171,6 +175,7 @@ input{
     font-size: x-large;
     margin-bottom: 50px;
     color: #000000;
+    padding: 12px;
 }
 
 ::placeholder{
@@ -190,6 +195,12 @@ button{
     height: 36px;
     font-size: 24px;
 }
+
+button:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+
 
 footer{
     display: flex;
